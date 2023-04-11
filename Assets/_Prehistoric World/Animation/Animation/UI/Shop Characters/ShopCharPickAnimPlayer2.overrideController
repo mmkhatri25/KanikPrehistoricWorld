@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ShopCharPickAnimPlayer2
+  m_Controller: {fileID: 9100000, guid: 44c8f3d898db74342bfce0780f298d94, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a8d777c0479e9034f9c391cd4360b00a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d920ec85e1135ed4097568580275d3ab, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3ddae1b5f1e0e8940a22d2f6f3b6acd1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cb8e917cc251c3c41b8e72caafc6ede8, type: 2}

@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Water
+  - RewardBox
+  - Ladder
+  - Through
+  - GodItem
+  - Enemy
+  - ClimbOnTop
+  - Spring
+  - Magnet
+  - Monster
+  - Punch
+  - Bullet
+  - Fruit
+  - SpeedBoost
+  - Ground
+  - Star
+  - JetPack
+  - GrabWall
+  - FxTemporaire
+  - ContinueJumpWall
+  - MissionStar
+  - KillZone
+  - Checkpoint
+  - DeadZone
+  - HiddenBox
+  - SpikeZone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Brick
+  - Water
+  - UI
+  - ObjectCanTakeDamage
+  - SpikeZone
+  - Ground
+  - Platform
+  - Enemy
+  - Player
+  - Projectile
+  - IgnorePlayer
+  - Dragable
+  - Partner
+  - Physic2D
+  - HidingZone
+  - SearchLight
+  - HideZoneObj
+  - CollectItem
+  - Ladder
+  - Boss
+  - BloomMobileEffect
+  - EnemyWeapon
+  - IgnoreAll
+  - DarkRoom
+  - Ledge
+  - RopeGrab
+  - VineZone
+  - KillZone
+  - Zone
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 433409981
+    locked: 0
+  - name: Water
+    uniqueID: 843284545
+    locked: 0
+  - name: HidingZone
+    uniqueID: 299615347
+    locked: 0
+  - name: BehideGround
+    uniqueID: 1035595615
+    locked: 0
+  - name: ForceGround
+    uniqueID: 3152394029
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1754840775
+    locked: 0
+  - name: Enemy
+    uniqueID: 1666280933
+    locked: 0
+  - name: UI
+    uniqueID: 1028008583
+    locked: 0
+  - name: Front
+    uniqueID: 355927989
+    locked: 0

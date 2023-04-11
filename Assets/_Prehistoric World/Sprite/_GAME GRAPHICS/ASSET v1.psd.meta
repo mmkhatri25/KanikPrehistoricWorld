@@ -1,0 +1,1371 @@
+fileFormatVersion: 2
+guid: 227fddb268b0d468b85129d5e55ee371
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: question box
+  - first:
+      213: 21300002
+    second: brick box
+  - first:
+      213: 21300004
+    second: brick destroy 1
+  - first:
+      213: 21300006
+    second: brick destroy 2
+  - first:
+      213: 21300008
+    second: brick destroy 3
+  - first:
+      213: 21300010
+    second: brick destroy 4
+  - first:
+      213: 21300012
+    second: stone box
+  - first:
+      213: 21300014
+    second: metal box
+  - first:
+      213: 21300016
+    second: ice box
+  - first:
+      213: 21300018
+    second: coin 1
+  - first:
+      213: 21300020
+    second: coin 4
+  - first:
+      213: 21300022
+    second: coin 6
+  - first:
+      213: 21300024
+    second: coin 2
+  - first:
+      213: 21300026
+    second: coin 3
+  - first:
+      213: 21300028
+    second: coin 5
+  - first:
+      213: 21300030
+    second: spear head
+  - first:
+      213: 21300032
+    second: Pipe stone
+  - first:
+      213: 21300034
+    second: Wooden Head
+  - first:
+      213: 21300036
+    second: Pipe green
+  - first:
+      213: 21300038
+    second: Pipe metal
+  - first:
+      213: 21300040
+    second: key 1
+  - first:
+      213: 21300042
+    second: key 2
+  - first:
+      213: 21300044
+    second: key 3
+  - first:
+      213: 21300046
+    second: key 4
+  - first:
+      213: 21300048
+    second: key 5
+  - first:
+      213: 21300050
+    second: key 6
+  - first:
+      213: 21300052
+    second: key 7
+  - first:
+      213: 21300054
+    second: key 8
+  - first:
+      213: 21300056
+    second: key 9
+  - first:
+      213: 21300058
+    second: Moving Platform Wooden
+  - first:
+      213: 21300060
+    second: Moving Platform Metal
+  - first:
+      213: 21300062
+    second: Asset 1_11
+  - first:
+      213: 21300064
+    second: switch tick
+  - first:
+      213: 21300066
+    second: switch base
+  - first:
+      213: 21300068
+    second: Wheel
+  - first:
+      213: 21300070
+    second: Destroy Platform
+  - first:
+      213: 21300072
+    second: Destroy Platform FX 1
+  - first:
+      213: 21300074
+    second: Destroy Platform FX 2
+  - first:
+      213: 21300076
+    second: Destroy Platform FX 3
+  - first:
+      213: 21300078
+    second: Destroy Platform FX 4
+  - first:
+      213: 21300080
+    second: Destroy Platform Cracked
+  - first:
+      213: 21300082
+    second: Vase
+  - first:
+      213: 21300084
+    second: Vase FX 1
+  - first:
+      213: 21300086
+    second: Vase FX 2
+  - first:
+      213: 21300088
+    second: Vase FX 3
+  - first:
+      213: 21300090
+    second: Vase FX 4
+  - first:
+      213: 21300092
+    second: Vase FX 5
+  - first:
+      213: 21300094
+    second: metal box 2
+  - first:
+      213: -6081640610161430947
+    second: Bonfire
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: question box
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebda52dfe2c17684aab9ba377c800c37
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick box
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42eec7c995f3b634c99ae182a2140334
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick destroy 1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 923
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca0ee32d3cd2ef41bc1a0860fec0e7d
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick destroy 2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 928
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dd97c8cf9dd904f983adafca087d43
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick destroy 3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 891
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f46faee383c804596af598866f43a1
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick destroy 4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 890
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029c4cb62ccdbc445ac494f6d98d2fee
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone box
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 895
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285a6efe48e89a8478d2ff1bd3ccf908
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal box
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521497e5f4c0ce7428a135d222b098cb
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice box
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1882d77559131440addbe60d7595631
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin 1
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 974
+        width: 45
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5296563, y: 0.49555054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e9a170dc2a36c4bb05561bdee48ab3
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin 4
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 975
+        width: 13
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717e936fe310e464f9f31d496152650f
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin 6
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 976
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5ed2631c51296458f27b1476580eed
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin 2
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 974
+        width: 39
+        height: 50
+      alignment: 9
+      pivot: {x: 0.53992325, y: 0.4911023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac1581b2c9284047af1dbb544882745
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin 3
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 975
+        width: 21
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4999975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0312550d0188284183a08e71d124317
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin 5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 975
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87eb8f97c2f5dc74587072684e84f00d
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear head
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 825
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c662d8aeb32444dbf6eb99ca4ed1d2
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe stone
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 947
+        width: 96
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 11, z: 0, w: 38}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240f9d0bb82150a4688e9c96801cb011
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Head
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 501
+        width: 62
+        height: 318
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 45, z: 0, w: 169}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dc84076c37814438d1933476f1ea97
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe green
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 947
+        width: 96
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 40, y: 17, z: 44, w: 43}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e81b4ed7db9c424e89966b6884429f3
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe metal
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 947
+        width: 102
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 43, y: 12, z: 44, w: 46}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0744ea2f7a680984fa5d67341c22c711
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key 1
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 849
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251879e7c047ebe4194dbfd4e2d72bb1
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key 2
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 853
+        width: 49
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2c4c5f26bf1b24792cca5d996149ad
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key 3
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 857
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e8be8f499fd29468c5ab7438145b00
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key 4
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 852
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48cae1ca1e6c704d8dd797bccc3f221
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key 5
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 854
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2ec18a00f3a3e409bf99e504a08bc3
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key 6
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 854
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b823b5c959c6f624f8eb6851f65a2a12
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key 7
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 854
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d4858a88e544b41a5c343486e0c137
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key 8
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 850
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c3783779f00a045a7699fe207c3d10
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key 9
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 852
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd7da84ff6153a47a2c3b4e28cbbd17
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving Platform Wooden
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 859
+        width: 158
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 0, z: 27, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c4e8130af9fa9479428ce0f413254c
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving Platform Metal
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 830
+        width: 158
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 0, z: 46, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d41ab1559c895d4480c82e7b78227c5
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 1_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 496
+        width: 79
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e786e6674e917df4cbcdb196bae25661
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: switch tick
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 354
+        width: 21
+        height: 134
+      alignment: 9
+      pivot: {x: 0.48744568, y: 0.030786088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409d63322a9f7434a853a6ae240914b9
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: switch base
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 356
+        width: 79
+        height: 43
+      alignment: 9
+      pivot: {x: 0.51134247, y: 0.0832257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7137d307f1adb4fa4f83bac8669ac4
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheel
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 774
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdd8631fd71bab43953631b9a1a1a6f
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destroy Platform
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 886
+        width: 190
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 0, z: 28, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefc0bfbddd43e24faa5427fc76b72b2
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destroy Platform FX 1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 915
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9123a11178ee7a94ea1fcf3f0d3c7564
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destroy Platform FX 2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 915
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda403bafd365674bbe2c473ad41346a
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destroy Platform FX 3
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 916
+        width: 74
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f35e1ec800c6c4fb02bb14f0bde44b
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destroy Platform FX 4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 917
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f3842841ebcff48be6f872e17136b9
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destroy Platform Cracked
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 857
+        width: 190
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 0, z: 28, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1434f04531d4324297df2861e818e8a
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vase
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 662
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2403e407f3807ff4f954353ee221de08
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vase FX 1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 625
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3b8b567ed93b440af8fee4aa33b0ee
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vase FX 2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 624
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34fab3f3c4fcc846a50f39d29a0c539
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vase FX 3
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 584
+        width: 37
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dae4c321338054a89958e3bac21e18
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vase FX 4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 592
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94fcd1c130fa7947802321982c25cd4
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vase FX 5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 561
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b43728475565e4da928f9412e3c47d
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal box 2
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 954
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e28130dc220374c9b5a88974456eb1
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonfire
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 701
+        width: 189
+        height: 101
+      alignment: 9
+      pivot: {x: 0.47663406, y: 0.024033349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5eecb3461ca99ba0800000000000000
+      internalID: -6081640610161430947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3c0a30c0b34d04e4e8f33f51fcb0b3e6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      brick destroy 4: 21300010
+      coin 1: 21300018
+      switch tick: 21300064
+      Destroy Platform FX 2: 21300074
+      switch base: 21300066
+      Vase FX 2: 21300086
+      Bonfire: -6081640610161430947
+      key 5: 21300048
+      Pipe green: 21300036
+      Destroy Platform FX 4: 21300078
+      Wooden Head: 21300034
+      key 2: 21300042
+      coin 4: 21300020
+      Wheel: 21300068
+      metal box: 21300014
+      key 3: 21300044
+      Pipe metal: 21300038
+      Destroy Platform Cracked: 21300080
+      Pipe stone: 21300032
+      Moving Platform Wooden: 21300058
+      key 9: 21300056
+      brick destroy 2: 21300006
+      Vase: 21300082
+      Destroy Platform FX 3: 21300076
+      Vase FX 1: 21300084
+      key 4: 21300046
+      Vase FX 3: 21300088
+      brick destroy 3: 21300008
+      brick destroy 1: 21300004
+      Moving Platform Metal: 21300060
+      key 1: 21300040
+      Asset 1_11: 21300062
+      coin 5: 21300028
+      key 7: 21300052
+      question box: 21300000
+      metal box 2: 21300094
+      Destroy Platform: 21300070
+      coin 3: 21300026
+      Destroy Platform FX 1: 21300072
+      spear head: 21300030
+      key 8: 21300054
+      coin 6: 21300022
+      coin 2: 21300024
+      Vase FX 5: 21300092
+      Vase FX 4: 21300090
+      brick box: 21300002
+      stone box: 21300012
+      ice box: 21300016
+      key 6: 21300050
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

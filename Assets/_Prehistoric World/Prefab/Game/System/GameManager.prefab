@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1396163017113490
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4656844271522708}
+  - component: {fileID: 114518924834875320}
+  - component: {fileID: 114973556786761428}
+  - component: {fileID: 114131510399381942}
+  - component: {fileID: 8531773182429476946}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4656844271522708
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1396163017113490}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114518924834875320
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1396163017113490}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01d2700ef87d15b40b4daa0a75590fd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isWatchingAd: 0
+  State: 0
+  FloatingText: {fileID: 1124642983650704, guid: 1d0f464bdf98b448db66d24f73bff7fb,
+    type: 3}
+  actionButtonElevatorUI: {fileID: 0}
+  currentPlayerPos: {x: 0, y: 0, z: 0}
+  isNoLives: 0
+  partnerTempItem: {fileID: 0}
+--- !u!114 &114973556786761428
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1396163017113490}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a1051046868c4345a8395f01a603680, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  testLevelMap: {fileID: 0}
+--- !u!114 &114131510399381942
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1396163017113490}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2c27426c23a9a64aa481cdb251e8976, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  beginSoundInMainMenu: {fileID: 0}
+  musicsMenu: {fileID: 0}
+  musicMenuVolume: 0.5
+  musicsGame: {fileID: 8300000, guid: 5a3e073558a394e539c438ac99b54f52, type: 3}
+  musicsGameVolume: 0.35
+  soundClick: {fileID: 8300000, guid: e644e0c4892c240b6a6ec2f301bbf77e, type: 3}
+  soundGamefinish: {fileID: 8300000, guid: 2124465f427054cdabc81e2cdd42b1b7, type: 3}
+  soundGameover: {fileID: 8300000, guid: e68286f34c1b943a589c916313d8abe7, type: 3}
+  soundPause: {fileID: 8300000, guid: a4f0f3d4549fc49fc9347b39bcfdb4cd, type: 3}
+  soundCheckpoint: {fileID: 0}
+--- !u!114 &8531773182429476946
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1396163017113490}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42a5adbbb76e4421898d0807c3d51474, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectsToPreload:
+  - {fileID: 2191572284300292113, guid: 874ce08bef788a64fa1fc5e1582ce85a, type: 3}
+  - {fileID: 664940995810287275, guid: 2123e744a456cab46b463bd24163cdee, type: 3}
+  - {fileID: 1449862470878401715, guid: 6a2d61b9f9b7d40b99fae6a2390a3db3, type: 3}
+  - {fileID: 106642, guid: 352ae4d6e45f84eee80410000be4d7b5, type: 3}
+  - {fileID: 2874417622811521018, guid: 853faf91d002dcd4ca54b04ab3ff73b5, type: 3}
+  - {fileID: 1347330118340980, guid: 7e0f2c3d8ed7e4314a648fb0f7c0a572, type: 3}
+  - {fileID: 6338145615417356351, guid: 2e064da420e915d45ae6569a3ed46339, type: 3}
+  objectsToPreloadTimes: 05000000050000000a0000000f0000000a0000000a0000000a000000
+  hideObjectsInHierarchy: 1

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Jelly Fish Override
+  m_Controller: {fileID: 9100000, guid: 73676c102cd6646318654431fe3f490d, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 4c6c33593d11c44559ef9d0c61c41814, type: 2}
+    m_OverrideClip: {fileID: 5467555484434993764, guid: f25dc391506f846f2b124ccd9c08df75,
+      type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 61449ec33e0944283a69a5e11ce20ca0, type: 2}
+    m_OverrideClip: {fileID: 344197157379506400, guid: f25dc391506f846f2b124ccd9c08df75,
+      type: 2}
